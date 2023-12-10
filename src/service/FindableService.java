@@ -14,6 +14,6 @@ public interface FindableService {
 void  findMovieByGenre(Genre genre);
 
 //    LinkedList<Movie> findMovieByGenre(Genre genre);
+    void  findMovieByRole(String role);
 
-    LinkedList<Movie> findMovieByRole(String role);
 }

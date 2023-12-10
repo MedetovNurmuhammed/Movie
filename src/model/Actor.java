@@ -33,7 +33,7 @@ public class Actor {
     public String toString() {
         return "Actor{" +
                 "name='" + name + '\'' +
-                ", lastname='" + role + '\'' +
+                ", role='" + role + '\'' +
                 '}';
     }
 }
